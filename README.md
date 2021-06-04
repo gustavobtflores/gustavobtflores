@@ -1,9 +1,9 @@
 ## Olá! :wave: Meu nome é Gustavo
-<br>
+
 
 - :books:   Estou aprendendo HTML, CSS e Javascript no momento
 - :dart:   Focado em desenvolvimento Frontend
-
+<br>
  <div>
   <a href="https://github.com/gustavobtflores">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gustavobtflores&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,6 @@
  <div style="display: inline_block"><br><br>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
