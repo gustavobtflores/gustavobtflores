@@ -16,8 +16,8 @@
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 <a href="https://www.linkedin.com/in/gustavobtflores"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ 
+ ![Snake animation](https://github.com/gustavobtflores/gustavobtflores/blob/output/github-contribution-grid-snake.svg)
