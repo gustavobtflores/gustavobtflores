@@ -1,7 +1,8 @@
 ## Olá! :wave: Meu nome é Gustavo
 <br>
-- 📚 Estou aprendendo HTML, CSS e Javascript no momento
-- 🎯 Focado em desenvolvimento Frontend
+
+- :books:   Estou aprendendo HTML, CSS e Javascript no momento
+- :dart:   Focado em desenvolvimento Frontend
 
  <div>
   <a href="https://github.com/gustavobtflores">
@@ -19,5 +20,5 @@
 <br>
 <br>
 <br>
- 
+
 <a href="https://www.linkedin.com/in/gustavobtflores"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
