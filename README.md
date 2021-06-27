@@ -2,7 +2,7 @@
 
 
 - :atom_symbol: Estou aprendendo React no momento
-- :dart:   Focado em desenvolvimento Frontend
+- :dart:   Focado em desenvolvimento Front-end
 <br>
  <div>
   <a href="https://github.com/gustavobtflores">
