@@ -1,7 +1,7 @@
 ## Olá! :wave: Meu nome é Gustavo
 
 
-- :atom_symbol: Estou aprendendo React no momento
+- :atom_symbol: Estou sempre aprendendo coisas novas
 - :dart:   Focado em desenvolvimento Front-end
 <br>
  <div>
