@@ -3,6 +3,7 @@
 
 - :atom_symbol: Estou sempre aprendendo coisas novas
 - :dart:   Focado em desenvolvimento Front-end
+- :office: Atuo como desenvolvedor Front-end na BRLOGIC
 <br>
  <div>
   <a href="https://github.com/gustavobtflores">
