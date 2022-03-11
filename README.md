@@ -4,6 +4,7 @@
 - :atom_symbol: Estou sempre aprendendo coisas novas
 - :office: Atuo como desenvolvedor Front-end na BRLOGIC
 - :heart: Apaixonado por música, jogos e tecnologia
+- :house: Garanhuns - PE
 <br>
  <div>
   <a href="https://github.com/gustavobtflores">
