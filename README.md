@@ -2,7 +2,7 @@
 
 
 - :atom_symbol: Estou sempre aprendendo coisas novas
-- :office: Atuo como desenvolvedor Front-end na BRLOGIC
+- :briefcase: Atuo como desenvolvedor Front-end na BRLOGIC
 - :heart: Apaixonado por música, jogos e tecnologia
 - :house: Garanhuns - PE
 <br>
