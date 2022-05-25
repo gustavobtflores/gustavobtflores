@@ -1,7 +1,7 @@
 ## Hey there! :wave: My name is Gustavo
 
 
-- :atom_symbol: Always learning something new
+- :atom_symbol: I'm always learning something new
 - :briefcase: Work as Front-end Developer at BRLOGIC
 - :heart: Pasionate about music, games and technology
 - :house: Garanhuns - PE
