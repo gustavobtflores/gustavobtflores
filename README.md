@@ -2,7 +2,7 @@
 
 
 - :atom_symbol: I'm always learning something new
-- :briefcase: I work as Front-end Developer at BRLOGIC
+- :briefcase: I work as a Front-end Developer at BRLOGIC
 - :heart: Pasionate about music, games and technology
 - :house: Garanhuns - PE
 <br>
