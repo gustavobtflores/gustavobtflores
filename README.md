@@ -1,9 +1,9 @@
-## Olá! :wave: Meu nome é Gustavo
+## Hey there! :wave: My name is Gustavo
 
 
-- :atom_symbol: Estou sempre aprendendo coisas novas
-- :briefcase: Atuo como desenvolvedor Front-end na BRLOGIC
-- :heart: Apaixonado por música, jogos e tecnologia
+- :atom_symbol: Always learning something new
+- :briefcase: Work as Front-end Developer at BRLOGIC
+- :heart: Pasionate about music, games and technology
 - :house: Garanhuns - PE
 <br>
  <div>
