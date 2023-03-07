@@ -15,4 +15,3 @@
 <br><br><br>
 
 <a href="https://www.linkedin.com/in/gustavobtflores"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/_guustavobernardo/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
