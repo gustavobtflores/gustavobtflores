@@ -1,6 +1,6 @@
 ## Hey there! :wave: My name is Gustavo
 
-- :atom_symbol: I'm currently learning more about advanced javascript frameworks
+- :atom_symbol: I'm always learning something new
 - :briefcase: I work as a Front-end Developer at BRLOGIC
 - :heart: Passionate about music, games and technology
 
