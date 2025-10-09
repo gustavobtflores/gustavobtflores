@@ -1,14 +1,6 @@
-## Hey there! :wave: My name is Gustavo
+### Hello there 👋 I'm Gustavo Flores<br> 
 
-- :atom_symbol: I'm always learning something new
-- :briefcase: I work as a Front-end Developer at BRLOGIC
-- :heart: Passionate about music, games and technology
+Software Engineer at ProFUSION
 
-<br>
- <div>
-  <a href="https://github.com/gustavobtflores">
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api?username=gustavobtflores&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobtflores&layout=compact&langs_count=5&theme=dark"/>
-<div>
-
-<br><br><br>
+- ⚙️ I use daily: ```.ts```, ```.js```, ```.vue```, ```.html```, ```.scss```
+- 🌍 Currently exploring: Angular
