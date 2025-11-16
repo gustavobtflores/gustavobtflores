@@ -3,4 +3,5 @@
 Software Engineer at ProFUSION
 
 - ⚙️ I use daily: ```.ts```, ```.js```, ```.vue```, ```.html```, ```.scss```
-- 🌍 Currently exploring: Angular
+- 🌍 Currently exploring: Python
+
